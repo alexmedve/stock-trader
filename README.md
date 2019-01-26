@@ -1,6 +1,6 @@
 # stock-trader
 
-> A Vue.js project
+> Buy and sell stocks to make profit!
 
 ## Build Setup
 
